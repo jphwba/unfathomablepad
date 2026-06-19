@@ -2,8 +2,12 @@
 
 Unfathomably bad design pcb
 
-### Macropad Render & Case
-![macropad](resources/macropad_render.png)
+### Macropad Render
+![macropad1](resources/macropad1.png)
+![macropad2](resources/macropad2.png)
+
+### Case
+![case](resources/case.png)
 
 ### PCB Layout
 ![PCBLayout](resources/PCBLayout.png)
