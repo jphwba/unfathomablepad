@@ -27,4 +27,6 @@ Unfathomably bad design pcb
 | **1x** | Rotary Encoder
 | **1x** | OLED Display
 | **1x** | 3D-Printed Case PA 12 Nylon (PA 603-CF)
-| **1x** | PCB ||
+| **1x** | PCB (See Screenshot below)||
+
+![PCBOrder]("resources/Screenshot.png")
